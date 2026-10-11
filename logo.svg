@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+<title>S.A.R. Solution Alliance Recouvrement</title>
+<rect width="512" height="512" fill="#00472d"/>
+<rect x="91" y="49" width="330" height="285" rx="32" fill="#008849"/>
+<g fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+<path d="M256 106V284 M174 144 Q215 116 256 144 Q297 116 338 144"/>
+<path d="M174 144L130 245 M174 144L218 245 M338 144L294 245 M338 144L382 245" stroke-width="9"/>
+</g>
+<g fill="#ffffff">
+<circle cx="256" cy="100" r="16"/>
+<path d="M130 245H218Q174 289 130 245Z M294 245H382Q338 289 294 245Z"/>
+<rect x="220" y="276" width="72" height="15" rx="5"/>
+<rect x="203" y="291" width="106" height="13" rx="3"/>
+</g>
+<text x="256" y="411" text-anchor="middle" font-family="Georgia,serif" font-size="73" font-weight="bold" fill="#ffffff">S.A.R.</text>
+<text x="256" y="444" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" letter-spacing="1" fill="#ffffff">SOLUTION ALLIANCE</text>
+<text x="256" y="466" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" letter-spacing="1" fill="#ffffff">RECOUVREMENT</text>
+</svg>
